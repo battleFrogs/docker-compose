@@ -1,0 +1,88 @@
+2024-06-05 10:40:56,850 WARN [NamingServerHttpClientManager] Start destroying HTTP-Client
+
+2024-06-05 10:40:56,879 WARN [NamingServerHttpClientManager] Destruction of the end
+
+2024-06-05 10:40:57,774 ERROR [HEALTH-CHECK-V2] error while processing NIO task
+
+java.lang.InterruptedException: null
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:2014)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2088)
+	at java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+	at com.alibaba.nacos.naming.healthcheck.v2.processor.TcpHealthCheckProcessor.processTask(TcpHealthCheckProcessor.java:122)
+	at com.alibaba.nacos.naming.healthcheck.v2.processor.TcpHealthCheckProcessor.run(TcpHealthCheckProcessor.java:139)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2024-06-05 10:40:57,774 ERROR [HEALTH-CHECK] error while processing NIO task
+
+java.lang.InterruptedException: null
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:2014)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2088)
+	at java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+	at com.alibaba.nacos.naming.healthcheck.TcpSuperSenseProcessor.processTask(TcpSuperSenseProcessor.java:137)
+	at com.alibaba.nacos.naming.healthcheck.TcpSuperSenseProcessor.run(TcpSuperSenseProcessor.java:154)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2024-06-05 15:05:57,453 WARN naming.distro config will be removed, please use core.protocol.distro replace.
+
+2024-06-05 15:05:57,453 WARN Using naming.distro config to replace core.distro config
+
+2024-06-05 15:05:57,646 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2024-06-05 15:05:57,648 INFO listen for service meta change
+
+2024-06-05 15:06:28,014 INFO Client connection 1717571187828_172.25.0.1_55932 connect
+
+2024-06-05 15:06:28,139 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='distribution-crm', ephemeral=true, revision=0}, 1717571187828_172.25.0.1_55932
+
+2024-06-05 15:06:32,633 INFO Client connection 1717571192603_172.25.0.1_55942 connect
+
+2024-06-05 15:06:32,751 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.crm.AuthorizeShopInfoService::', ephemeral=true, revision=0}, 1717571192603_172.25.0.1_55942
+
+2024-06-05 15:06:33,046 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.crm.UserService::', ephemeral=true, revision=0}, 1717571192603_172.25.0.1_55942
+
+2024-06-05 15:09:31,289 INFO Client connection 1717571371279_172.25.0.1_62206 connect
+
+2024-06-05 15:09:31,500 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.lensung.distribution.api.service.crm.UserService::', ephemeral=true, revision=0}, 1717571371279_172.25.0.1_62206
+
+2024-06-05 15:09:32,428 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.lensung.distribution.api.service.crm.AuthorizeShopInfoService::', ephemeral=true, revision=0}, 1717571371279_172.25.0.1_62206
+
+2024-06-05 15:09:37,541 INFO Client connection 1717571377530_172.25.0.1_55274 connect
+
+2024-06-05 15:09:37,645 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='distribution-goods', ephemeral=true, revision=0}, 1717571377530_172.25.0.1_55274
+
+2024-06-05 15:09:37,933 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.goods.ProductSaleService::', ephemeral=true, revision=0}, 1717571371279_172.25.0.1_62206
+
+2024-06-05 17:05:08,351 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.goods.ProductSaleService::', ephemeral=true, revision=1}, 1717571371279_172.25.0.1_62206
+
+2024-06-05 17:05:08,473 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.lensung.distribution.api.service.crm.UserService::', ephemeral=true, revision=1}, 1717571371279_172.25.0.1_62206
+
+2024-06-05 17:05:08,487 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.lensung.distribution.api.service.crm.AuthorizeShopInfoService::', ephemeral=true, revision=1}, 1717571371279_172.25.0.1_62206
+
+2024-06-05 17:05:12,987 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='distribution-goods', ephemeral=true, revision=1}, 1717571377530_172.25.0.1_55274
+
+2024-06-05 17:05:13,037 INFO Client connection 1717571377530_172.25.0.1_55274 disconnect, remove instances and subscribers
+
+2024-06-05 17:05:13,641 INFO Client connection 1717571370442_172.25.0.1_62200 disconnect, remove instances and subscribers
+
+2024-06-05 17:05:13,646 INFO Client connection 1717571372343_172.25.0.1_62210 disconnect, remove instances and subscribers
+
+2024-06-05 17:05:13,648 INFO Client connection 1717571371279_172.25.0.1_62206 disconnect, remove instances and subscribers
+
+2024-06-05 17:05:35,775 INFO Client connection 1717578335762_172.25.0.1_65306 connect
+
+2024-06-05 17:05:35,978 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.lensung.distribution.api.service.crm.UserService::', ephemeral=true, revision=2}, 1717578335762_172.25.0.1_65306
+
+2024-06-05 17:05:36,909 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.lensung.distribution.api.service.crm.AuthorizeShopInfoService::', ephemeral=true, revision=2}, 1717578335762_172.25.0.1_65306
+
+2024-06-05 17:05:41,168 INFO Client connection 1717578341160_172.25.0.1_65330 connect
+
+2024-06-05 17:05:41,281 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='distribution-goods', ephemeral=true, revision=2}, 1717578341160_172.25.0.1_65330
+
+2024-06-05 17:05:41,559 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.goods.ProductSaleService::', ephemeral=true, revision=2}, 1717578335762_172.25.0.1_65306
+

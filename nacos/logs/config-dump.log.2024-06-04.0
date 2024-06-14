@@ -1,0 +1,8 @@
+2024-06-04 15:14:48,469 INFO [dump-task] add task. groupKey=com.lensung.distribution.api.service.crm.UserService:::consumer:distribution-goods+dubbo, taskKey=com.lensung.distribution.api.service.crm.UserService:::consumer:distribution-goods+dubbo++false+null
+
+2024-06-04 15:14:48,541 WARN [dump-ignore] ignore to save cache file. groupKey=com.lensung.distribution.api.service.crm.UserService:::consumer:distribution-goods+dubbo, md5=a002be789138095d548c4e4f34ae39ee, lastModifiedOld=1717149813000, lastModifiedNew=1717485288353
+
+2024-06-04 15:14:48,525 INFO [dump-task] add task. groupKey=com.lensung.distribution.api.service.crm.AuthorizeShopInfoService:::consumer:distribution-goods+dubbo, taskKey=com.lensung.distribution.api.service.crm.AuthorizeShopInfoService:::consumer:distribution-goods+dubbo++false+null
+
+2024-06-04 15:14:50,784 WARN [dump-ignore] ignore to save cache file. groupKey=com.lensung.distribution.api.service.crm.AuthorizeShopInfoService:::consumer:distribution-goods+dubbo, md5=71c3719cfaf124cf02b51e3c998190a7, lastModifiedOld=1717149813000, lastModifiedNew=1717485288492
+

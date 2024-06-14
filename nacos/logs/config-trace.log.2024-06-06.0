@@ -1,0 +1,10 @@
+2024-06-06 03:47:51,036|d6a1a41d65ec|com.lensung.distribution.api.service.crm.UserService:::consumer:distribution-goods|dubbo|null|null|1717616870996|d6a1a41d65ec|persist|pub|-1|a002be789138095d548c4e4f34ae39ee
+2024-06-06 03:47:51,990|d6a1a41d65ec|com.lensung.distribution.api.service.crm.AuthorizeShopInfoService:::consumer:distribution-goods|dubbo|null|null|1717616871980|d6a1a41d65ec|persist|pub|-1|71c3719cfaf124cf02b51e3c998190a7
+2024-06-06 03:47:52,008|d6a1a41d65ec|com.lensung.distribution.api.service.crm.UserService:::consumer:distribution-goods|dubbo|null|null|1717616870996|172.25.0.3|dump|ok|1012|274
+2024-06-06 03:47:52,025|d6a1a41d65ec|com.lensung.distribution.api.service.goods.ProductSaleService:::provider:distribution-goods|dubbo|null|null|1717616872009|d6a1a41d65ec|persist|pub|-1|9cf3e2b2eee586712917f8b295dbb136
+2024-06-06 03:47:52,110|d6a1a41d65ec|com.lensung.distribution.api.service.goods.ProductSaleService:::provider:distribution-goods|dubbo|null|null|1717616872009|172.25.0.3|dump|ok|101|3346
+2024-06-06 03:47:52,113|d6a1a41d65ec|com.lensung.distribution.api.service.crm.AuthorizeShopInfoService:::consumer:distribution-goods|dubbo|null|null|1717616871980|172.25.0.3|dump|ok|133|297
+2024-06-06 03:48:13,529|d6a1a41d65ec|com.lensung.distribution.api.service.crm.UserService:::provider:distribution-crm|dubbo|null|null|1717616893509|d6a1a41d65ec|persist|pub|-1|b3b522f8c5855dda69f852b06cfd62a0
+2024-06-06 03:48:13,562|d6a1a41d65ec|com.lensung.distribution.api.service.crm.AuthorizeShopInfoService:::provider:distribution-crm|dubbo|null|null|1717616893554|d6a1a41d65ec|persist|pub|-1|2e80845d775434d804e947dc5160cc33
+2024-06-06 03:48:13,567|d6a1a41d65ec|com.lensung.distribution.api.service.crm.AuthorizeShopInfoService:::provider:distribution-crm|dubbo|null|null|1717616893554|172.25.0.3|dump|ok|13|1688
+2024-06-06 03:48:13,570|d6a1a41d65ec|com.lensung.distribution.api.service.crm.UserService:::provider:distribution-crm|dubbo|null|null|1717616893509|172.25.0.3|dump|ok|61|1749

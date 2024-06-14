@@ -1,0 +1,6 @@
+2024-06-07 18:04:58,378 INFO shutdown jraft server
+
+2024-06-07 18:05:00,888 INFO ========= The raft protocol is starting to close =========
+
+2024-06-07 18:05:03,930 INFO ========= The raft protocol has been closed =========
+

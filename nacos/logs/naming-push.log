@@ -1,0 +1,134 @@
+2024-06-11 09:23:48,400 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.crm.AuthorizeShopInfoService::', ephemeral=true, revision=1}
+
+2024-06-11 09:23:49,444 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.crm.UserService::', ephemeral=true, revision=1}
+
+2024-06-11 09:23:49,482 INFO [PUSH-SUCC] 37ms, all delay time 1100ms, SLA 1101ms, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.crm.AuthorizeShopInfoService::', ephemeral=true, revision=1}, DataSize=1, target=192.168.0.59
+
+2024-06-11 09:23:49,954 INFO [PUSH-SUCC] 10ms, all delay time 510ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.crm.AuthorizeShopInfoService', ephemeral=true, revision=0}, DataSize=0
+
+2024-06-11 09:23:49,956 INFO [PUSH-SUCC] 11ms, all delay time 512ms, SLA 1381ms, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.crm.UserService::', ephemeral=true, revision=1}, DataSize=1, target=192.168.0.59
+
+2024-06-11 09:23:50,056 INFO [PUSH-SUCC] 12ms, all delay time 605ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.crm.UserService', ephemeral=true, revision=0}, DataSize=0
+
+2024-06-11 10:36:31,118 INFO [PUSH-SUCC] 25ms, all delay time 610ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.crm.UserService::', ephemeral=true, revision=1}, DataSize=1
+
+2024-06-11 10:36:31,121 INFO [PUSH-SUCC] 28ms, all delay time 599ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.crm.UserService', ephemeral=true, revision=0}, DataSize=0
+
+2024-06-11 10:36:31,898 INFO [PUSH-SUCC] 5ms, all delay time 577ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.crm.AuthorizeShopInfoService', ephemeral=true, revision=0}, DataSize=0
+
+2024-06-11 10:36:31,902 INFO [PUSH-SUCC] 8ms, all delay time 585ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.crm.AuthorizeShopInfoService::', ephemeral=true, revision=1}, DataSize=1
+
+2024-06-11 10:36:36,175 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.goods.ProductSaleService::', ephemeral=true, revision=1}
+
+2024-06-11 10:36:36,712 INFO [PUSH-SUCC] 11ms, all delay time 544ms, SLA 544ms, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.goods.ProductSaleService::', ephemeral=true, revision=1}, DataSize=1, target=192.168.0.59
+
+2024-06-11 10:36:36,734 INFO [PUSH-SUCC] 32ms, all delay time 551ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.goods.ProductSaleService', ephemeral=true, revision=0}, DataSize=0
+
+2024-06-11 10:58:42,691 INFO [PUSH-SUCC] 96ms, all delay time 660ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.crm.AuthorizeShopInfoService', ephemeral=true, revision=0}, DataSize=0
+
+2024-06-11 10:58:42,693 INFO [PUSH-SUCC] 97ms, all delay time 671ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.crm.AuthorizeShopInfoService::', ephemeral=true, revision=1}, DataSize=1
+
+2024-06-11 10:58:44,412 INFO [PUSH-SUCC] 14ms, all delay time 567ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.crm.UserService::', ephemeral=true, revision=1}, DataSize=1
+
+2024-06-11 10:58:44,416 INFO [PUSH-SUCC] 17ms, all delay time 555ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.crm.UserService', ephemeral=true, revision=0}, DataSize=0
+
+2024-06-11 10:58:44,509 INFO [PUSH-SUCC] 11ms, all delay time 519ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.goods.ProductSaleService::', ephemeral=true, revision=0}, DataSize=0
+
+2024-06-11 10:58:44,609 INFO [PUSH-SUCC] 10ms, all delay time 609ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.goods.ProductSaleService', ephemeral=true, revision=0}, DataSize=0
+
+2024-06-11 11:04:55,227 INFO [PUSH-SUCC] 7ms, all delay time 509ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.crm.AuthorizeShopInfoService', ephemeral=true, revision=0}, DataSize=0
+
+2024-06-11 11:04:55,347 INFO [PUSH-SUCC] 27ms, all delay time 603ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.goods.ProductSaleService::', ephemeral=true, revision=0}, DataSize=0
+
+2024-06-11 11:04:55,365 INFO [PUSH-SUCC] 44ms, all delay time 625ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.goods.ProductSaleService', ephemeral=true, revision=0}, DataSize=0
+
+2024-06-11 11:04:55,375 INFO [PUSH-SUCC] 55ms, all delay time 641ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.crm.UserService::', ephemeral=true, revision=1}, DataSize=1
+
+2024-06-11 11:04:55,378 INFO [PUSH-SUCC] 57ms, all delay time 653ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.crm.UserService', ephemeral=true, revision=0}, DataSize=0
+
+2024-06-11 11:04:55,379 INFO [PUSH-SUCC] 58ms, all delay time 649ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.crm.AuthorizeShopInfoService::', ephemeral=true, revision=1}, DataSize=1
+
+2024-06-11 11:06:18,262 INFO [PUSH-SUCC] 9ms, all delay time 552ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.crm.AuthorizeShopInfoService', ephemeral=true, revision=0}, DataSize=0
+
+2024-06-11 11:06:18,264 INFO [PUSH-SUCC] 11ms, all delay time 532ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.goods.ProductSaleService::', ephemeral=true, revision=0}, DataSize=0
+
+2024-06-11 11:06:18,266 INFO [PUSH-SUCC] 13ms, all delay time 543ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.crm.UserService::', ephemeral=true, revision=1}, DataSize=1
+
+2024-06-11 11:06:18,267 INFO [PUSH-SUCC] 14ms, all delay time 538ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.goods.ProductSaleService', ephemeral=true, revision=0}, DataSize=0
+
+2024-06-11 11:06:18,268 INFO [PUSH-SUCC] 15ms, all delay time 554ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.crm.UserService', ephemeral=true, revision=0}, DataSize=0
+
+2024-06-11 11:06:18,270 INFO [PUSH-SUCC] 16ms, all delay time 553ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.crm.AuthorizeShopInfoService::', ephemeral=true, revision=1}, DataSize=1
+
+2024-06-11 11:15:52,522 INFO [PUSH-SUCC] 39ms, all delay time 589ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.crm.AuthorizeShopInfoService', ephemeral=true, revision=0}, DataSize=0
+
+2024-06-11 11:15:52,528 INFO [PUSH-SUCC] 45ms, all delay time 605ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.crm.AuthorizeShopInfoService::', ephemeral=true, revision=1}, DataSize=1
+
+2024-06-11 11:15:54,199 INFO [PUSH-SUCC] 8ms, all delay time 566ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.crm.UserService::', ephemeral=true, revision=1}, DataSize=1
+
+2024-06-11 11:15:54,209 INFO [PUSH-SUCC] 18ms, all delay time 569ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.crm.UserService', ephemeral=true, revision=0}, DataSize=0
+
+2024-06-11 11:15:54,295 INFO [PUSH-SUCC] 4ms, all delay time 555ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.goods.ProductSaleService::', ephemeral=true, revision=0}, DataSize=0
+
+2024-06-11 11:15:54,297 INFO [PUSH-SUCC] 6ms, all delay time 552ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.goods.ProductSaleService', ephemeral=true, revision=0}, DataSize=0
+
+2024-06-11 11:28:21,451 INFO [PUSH-SUCC] 102ms, all delay time 681ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.crm.AuthorizeShopInfoService', ephemeral=true, revision=0}, DataSize=0
+
+2024-06-11 11:28:21,454 INFO [PUSH-SUCC] 104ms, all delay time 692ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.crm.AuthorizeShopInfoService::', ephemeral=true, revision=1}, DataSize=1
+
+2024-06-11 11:28:23,985 INFO [PUSH-SUCC] 12ms, all delay time 563ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.crm.UserService::', ephemeral=true, revision=1}, DataSize=1
+
+2024-06-11 11:28:23,988 INFO [PUSH-SUCC] 15ms, all delay time 555ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.crm.UserService', ephemeral=true, revision=0}, DataSize=0
+
+2024-06-11 11:28:24,182 INFO [PUSH-SUCC] 9ms, all delay time 599ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.goods.ProductSaleService::', ephemeral=true, revision=0}, DataSize=0
+
+2024-06-11 11:28:24,184 INFO [PUSH-SUCC] 11ms, all delay time 582ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.goods.ProductSaleService', ephemeral=true, revision=0}, DataSize=0
+
+2024-06-11 11:30:23,918 INFO [PUSH-SUCC] 35ms, all delay time 617ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.crm.AuthorizeShopInfoService', ephemeral=true, revision=0}, DataSize=0
+
+2024-06-11 11:30:23,923 INFO [PUSH-SUCC] 39ms, all delay time 630ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.crm.AuthorizeShopInfoService::', ephemeral=true, revision=1}, DataSize=1
+
+2024-06-11 11:30:25,191 INFO [PUSH-SUCC] 6ms, all delay time 513ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.crm.UserService::', ephemeral=true, revision=1}, DataSize=1
+
+2024-06-11 11:30:25,195 INFO [PUSH-SUCC] 9ms, all delay time 512ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.crm.UserService', ephemeral=true, revision=0}, DataSize=0
+
+2024-06-11 11:30:25,289 INFO [PUSH-SUCC] 3ms, all delay time 525ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.goods.ProductSaleService::', ephemeral=true, revision=0}, DataSize=0
+
+2024-06-11 11:30:25,291 INFO [PUSH-SUCC] 5ms, all delay time 522ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.goods.ProductSaleService', ephemeral=true, revision=0}, DataSize=0
+
+2024-06-11 13:39:14,983 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.crm.AuthorizeShopInfoService::', ephemeral=true, revision=3}
+
+2024-06-11 13:39:14,988 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.crm.UserService::', ephemeral=true, revision=3}
+
+2024-06-11 13:39:15,648 INFO [PUSH-SUCC] 138ms, all delay time 674ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.crm.AuthorizeShopInfoService', ephemeral=true, revision=0}, DataSize=0
+
+2024-06-11 13:39:15,759 INFO [PUSH-SUCC] 248ms, all delay time 795ms, SLA 795ms, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.crm.UserService::', ephemeral=true, revision=3}, DataSize=1, target=192.168.0.59
+
+2024-06-11 13:39:15,781 INFO [PUSH-SUCC] 270ms, all delay time 802ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.crm.UserService', ephemeral=true, revision=0}, DataSize=0
+
+2024-06-11 13:39:15,788 INFO [PUSH-SUCC] 277ms, all delay time 818ms, SLA 818ms, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.crm.AuthorizeShopInfoService::', ephemeral=true, revision=3}, DataSize=1, target=192.168.0.59
+
+2024-06-11 13:39:16,324 INFO [PUSH-SUCC] 13ms, all delay time 529ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.crm.AuthorizeShopInfoService', ephemeral=true, revision=0}, DataSize=0
+
+2024-06-11 13:39:16,426 INFO [PUSH-SUCC] 15ms, all delay time 517ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.goods.ProductSaleService', ephemeral=true, revision=0}, DataSize=0
+
+2024-06-11 13:39:16,428 INFO [PUSH-SUCC] 17ms, all delay time 532ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.crm.UserService::', ephemeral=true, revision=3}, DataSize=1
+
+2024-06-11 13:39:16,428 INFO [PUSH-SUCC] 16ms, all delay time 589ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.crm.UserService', ephemeral=true, revision=0}, DataSize=0
+
+2024-06-11 13:39:16,429 INFO [PUSH-SUCC] 17ms, all delay time 566ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.crm.AuthorizeShopInfoService::', ephemeral=true, revision=3}, DataSize=1
+
+2024-06-11 13:39:16,527 INFO [PUSH-SUCC] 16ms, all delay time 614ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.goods.ProductSaleService::', ephemeral=true, revision=0}, DataSize=0
+
+2024-06-11 13:48:47,946 INFO [PUSH-SUCC] 29ms, all delay time 599ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.crm.AuthorizeShopInfoService', ephemeral=true, revision=0}, DataSize=0
+
+2024-06-11 13:48:47,949 INFO [PUSH-SUCC] 32ms, all delay time 610ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.crm.AuthorizeShopInfoService::', ephemeral=true, revision=3}, DataSize=1
+
+2024-06-11 13:48:49,225 INFO [PUSH-SUCC] 7ms, all delay time 514ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.crm.UserService::', ephemeral=true, revision=3}, DataSize=1
+
+2024-06-11 13:48:49,227 INFO [PUSH-SUCC] 8ms, all delay time 511ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.crm.UserService', ephemeral=true, revision=0}, DataSize=0
+
+2024-06-11 13:48:49,322 INFO [PUSH-SUCC] 4ms, all delay time 525ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.goods.ProductSaleService::', ephemeral=true, revision=0}, DataSize=0
+
+2024-06-11 13:48:49,325 INFO [PUSH-SUCC] 6ms, all delay time 522ms for subscriber 192.168.0.59, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.lensung.distribution.api.service.goods.ProductSaleService', ephemeral=true, revision=0}, DataSize=0
+

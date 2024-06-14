@@ -1,0 +1,16 @@
+2024-06-04 15:14:47,696 INFO Client connection 1717485287684_172.25.0.1_59084 connect
+
+2024-06-04 15:14:47,904 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.lensung.distribution.api.service.crm.UserService::', ephemeral=true, revision=0}, 1717485287684_172.25.0.1_59084
+
+2024-06-04 15:14:48,286 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.lensung.distribution.api.service.crm.AuthorizeShopInfoService::', ephemeral=true, revision=0}, 1717485287684_172.25.0.1_59084
+
+2024-06-04 15:14:53,391 INFO Client connection 1717485288219_172.25.0.1_59094 disconnect, remove instances and subscribers
+
+2024-06-04 15:14:53,396 INFO Client connection 1717485284950_172.25.0.1_58724 disconnect, remove instances and subscribers
+
+2024-06-04 15:14:53,397 INFO Client connection 1717485287684_172.25.0.1_59084 disconnect, remove instances and subscribers
+
+2024-06-04 15:16:29,244 WARN namespace : public, [DEFAULT_GROUP@@consumers:com.lensung.distribution.api.service.crm.AuthorizeShopInfoService::] services are automatically cleaned
+
+2024-06-04 15:16:29,244 WARN namespace : public, [DEFAULT_GROUP@@consumers:com.lensung.distribution.api.service.crm.UserService::] services are automatically cleaned
+

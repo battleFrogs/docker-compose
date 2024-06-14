@@ -1,0 +1,34 @@
+2024-06-05 15:05:59,107 INFO [dump-all-ok] com.lensung.distribution.api.service.crm.UserService:::consumer:distribution-goods+dubbo, 1717485288000, length=274, md5=a002be789138095d548c4e4f34ae39ee
+
+2024-06-05 15:06:01,370 INFO [dump-all-ok] com.lensung.distribution.api.service.crm.AuthorizeShopInfoService:::consumer:distribution-goods+dubbo, 1717485288000, length=297, md5=71c3719cfaf124cf02b51e3c998190a7
+
+2024-06-05 15:06:01,376 INFO [dump-all-ok] com.lensung.distribution.api.service.goods.ProductSaleService:::provider:distribution-goods+dubbo, 1717149821000, length=3254, md5=67490146e768b6fc8e43dd440be630ca
+
+2024-06-05 15:06:01,379 INFO [dump-all-ok] com.example.api.service.TestService+mapping, 1717385048000, length=7, md5=a4f550dea5eb250a72b6ca8e8d94e7d9
+
+2024-06-05 15:06:01,380 INFO [dump-all-ok] com.example.api.service.TestService:::provider:provide+dubbo, 1717397151000, length=997, md5=f85dc6de0dd3a0b53b546433904c8604
+
+2024-06-05 15:06:33,506 INFO [dump-task] add task. groupKey=com.lensung.distribution.api.service.crm.AuthorizeShopInfoService:::provider:distribution-crm+dubbo, taskKey=com.lensung.distribution.api.service.crm.AuthorizeShopInfoService:::provider:distribution-crm+dubbo++false+null
+
+2024-06-05 15:06:33,879 INFO [dump-task] add task. groupKey=com.lensung.distribution.api.service.crm.UserService:::provider:distribution-crm+dubbo, taskKey=com.lensung.distribution.api.service.crm.UserService:::provider:distribution-crm+dubbo++false+null
+
+2024-06-05 15:09:32,721 INFO [dump-task] add task. groupKey=com.lensung.distribution.api.service.crm.UserService:::consumer:distribution-goods+dubbo, taskKey=com.lensung.distribution.api.service.crm.UserService:::consumer:distribution-goods+dubbo++false+null
+
+2024-06-05 15:09:32,748 INFO [dump-task] add task. groupKey=com.lensung.distribution.api.service.crm.AuthorizeShopInfoService:::consumer:distribution-goods+dubbo, taskKey=com.lensung.distribution.api.service.crm.AuthorizeShopInfoService:::consumer:distribution-goods+dubbo++false+null
+
+2024-06-05 15:09:32,765 WARN [dump-ignore] ignore to save cache file. groupKey=com.lensung.distribution.api.service.crm.AuthorizeShopInfoService:::consumer:distribution-goods+dubbo, md5=71c3719cfaf124cf02b51e3c998190a7, lastModifiedOld=1717485288000, lastModifiedNew=1717571372738
+
+2024-06-05 15:09:32,768 WARN [dump-ignore] ignore to save cache file. groupKey=com.lensung.distribution.api.service.crm.UserService:::consumer:distribution-goods+dubbo, md5=a002be789138095d548c4e4f34ae39ee, lastModifiedOld=1717485288000, lastModifiedNew=1717571372464
+
+2024-06-05 15:09:38,018 INFO [dump-task] add task. groupKey=com.lensung.distribution.api.service.goods.ProductSaleService:::provider:distribution-goods+dubbo, taskKey=com.lensung.distribution.api.service.goods.ProductSaleService:::provider:distribution-goods+dubbo++false+null
+
+2024-06-05 17:05:37,008 INFO [dump-task] add task. groupKey=com.lensung.distribution.api.service.crm.UserService:::consumer:distribution-goods+dubbo, taskKey=com.lensung.distribution.api.service.crm.UserService:::consumer:distribution-goods+dubbo++false+null
+
+2024-06-05 17:05:37,041 INFO [dump-task] add task. groupKey=com.lensung.distribution.api.service.crm.AuthorizeShopInfoService:::consumer:distribution-goods+dubbo, taskKey=com.lensung.distribution.api.service.crm.AuthorizeShopInfoService:::consumer:distribution-goods+dubbo++false+null
+
+2024-06-05 17:05:37,105 WARN [dump-ignore] ignore to save cache file. groupKey=com.lensung.distribution.api.service.crm.AuthorizeShopInfoService:::consumer:distribution-goods+dubbo, md5=71c3719cfaf124cf02b51e3c998190a7, lastModifiedOld=1717485288000, lastModifiedNew=1717578337023
+
+2024-06-05 17:05:37,118 WARN [dump-ignore] ignore to save cache file. groupKey=com.lensung.distribution.api.service.crm.UserService:::consumer:distribution-goods+dubbo, md5=a002be789138095d548c4e4f34ae39ee, lastModifiedOld=1717485288000, lastModifiedNew=1717578336956
+
+2024-06-05 17:05:41,601 INFO [dump-task] add task. groupKey=com.lensung.distribution.api.service.goods.ProductSaleService:::provider:distribution-goods+dubbo, taskKey=com.lensung.distribution.api.service.goods.ProductSaleService:::provider:distribution-goods+dubbo++false+null
+
